@@ -5,10 +5,10 @@ MIT
 A fake RESTful API for testing purposes,running using the npm module **json-server**. Ready to deploy to services like Cyclic.sh.
 
 ## Installation
-Run npm to install all dependencies:
+Run npm to install RESTful-API:
 
 ```sh
-npm install
+npm i restful-api-for-easy-deploy-to-services-like-cyclic
 ```
 
 Now you are ready to deploy to Cyclic.sh:
