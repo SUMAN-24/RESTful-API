@@ -1,3 +1,6 @@
+### LICENSE
+MIT
+
 # RESTful-API
 A fake RESTful API for testing purposes,running using the npm module **json-server**. Ready to deploy to services like Cyclic.sh.
 
@@ -21,7 +24,7 @@ Now you are ready to deploy to Cyclic.sh:
 3. `Click on (Continue with GitHub)`
 
 ## After Successfull Login
-1.`Click on Deploy button`
+1. Click on Deploy button
 2. `Click on (Link Your Own) tab`
 3. `In search box type your repo that you created for      deployment`
 4. `If your repo is in private mode---it will show Add a private repo option below----click on it`
