@@ -19,7 +19,7 @@ npm i restful-api-for-easy-deploy-to-services-like-cyclic
  `clone it and the total structure will be at your end. Then follow 2nd step`
  ```sh
     npm install
-    ```
+```
 
 Having completed the above process follow the below process:
 
