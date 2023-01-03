@@ -4,12 +4,24 @@ MIT
 # RESTful-API
 A fake RESTful API for testing purposes,running using the npm module **json-server**. Ready to deploy to services like Cyclic.sh.
 
-## Installation
+## Installation (using any of the two below methods)
 Run npm to install RESTful-API:
+  1. ### Method 1: using npm package below
 
 ```sh
 npm i restful-api-for-easy-deploy-to-services-like-cyclic
 ```
+1. `go to node_modules and you will find a folder with name (restful-api-for-easy-deploy-to-services-like-cyclic)`
+2. `cut the whole folder and paste the contents in your repo`---(note-> first you have to create your own repo)
+                    or
+    2. ### Method 2: cloning of my repo from github
+
+    1. `clone it and the total structure will be at your end. Then follow 2nd step`
+    2. ```sh
+    npm install
+    ```
+
+Having completed the above process follow the below process:
 
 Now you are ready to deploy to Cyclic.sh:
 
