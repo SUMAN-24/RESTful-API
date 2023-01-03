@@ -1,0 +1,30 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "A fake RESTful API for testing purposes, ready to deploy to services like Cyclic.sh.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \\Error: no test specified\\  && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUMAN-24/RESTful-API.git"
+  },
+  "keywords": [
+    "fakeapi",
+    "api",
+    "mockapi",
+    "restfulapi",
+    "jsonserver-deploy"
+  ],
+  "author": "Suman Kumar Khan (SUMAN-24)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SUMAN-24/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/SUMAN-24/RESTful-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
