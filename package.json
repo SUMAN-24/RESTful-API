@@ -1,11 +1,11 @@
 {
-  "name": "restful-api",
+  "name": "@suman-24/restful-api",
   "version": "1.0.0",
   "description": "A fake RESTful API for testing purposes, ready to deploy to services like Cyclic.sh.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "echo \\Error: no test specified\\  && exit 1"
+    "test": "echo \"Error: no test specified\"  && exit 1"
   },
   "repository": {
     "type": "git",
