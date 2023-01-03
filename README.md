@@ -16,7 +16,7 @@ npm i restful-api-for-easy-deploy-to-services-like-cyclic
                     
     ### Method 2: cloning of my repo from github
 
- `clone it and the total structure will be at your end. Then follow 2nd step`
+ `clone it and the total structure will be at your end. Then do npm install`
  ```sh
     npm install
 ```
