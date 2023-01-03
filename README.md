@@ -10,13 +10,11 @@ npm install
 
 Now you are ready to deploy to Cyclic.sh:
 
-```sh
 1. `create your endpoints in db.json`
 2. `git add .`
 3. `git commit`
 4. `git push`
-```
-```sh
+
 ## Create account in Cyclic
 1. `Go to Cyclic.sh`
 2. `Click on sign up`
@@ -43,7 +41,6 @@ Now you are ready to deploy to Cyclic.sh:
 4. `Refresh the page and you will see your custom url`
 5. `Hurray! you are ready with your deployment now`
 6. `Now you don't need to worry even you change the data as it will automatically deploy after each commit to that repo`
-```
 
 ## Editing the initial data
 
