@@ -1,5 +1,5 @@
 {
-  "name": "@suman-24/restful-api",
+  "name": "restful-api-for-easy-deploy-to-services-like-cyclic",
   "version": "1.0.0",
   "description": "A fake RESTful API for testing purposes, ready to deploy to services like Cyclic.sh.",
   "main": "server.js",
