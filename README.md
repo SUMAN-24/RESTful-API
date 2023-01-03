@@ -13,7 +13,9 @@ npm i restful-api-for-easy-deploy-to-services-like-cyclic
 ```
 1. `go to node_modules and you will find a folder with name (restful-api-for-easy-deploy-to-services-like-cyclic)`
 2. `cut the whole folder and paste the contents in your repo`---(note-> first you have to create your own repo)
-                    
+3. `LICENSE, README.md, db.json and server.js must be there in your repo`
+4. `if you are not using this package.json then you need to install json-server as dependency in your package.json----> npm i json-server`
+
     ### Method 2: cloning of my repo from github
 
  `clone it and the total structure will be at your end. Then do npm install`
